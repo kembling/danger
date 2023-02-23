@@ -1,0 +1,39 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: burlywood;
+    font-family: roboto;
+}
+
+/*picture in navbar as logo styling */
+
+.pikicha{
+border-radius: 50%;    
+width: 100px;
+
+}
+
+.header{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 1.8rem;
+    margin: 200px;
+    text-transform: uppercase;
+}
+.first p {
+margin: 110px;    
+text-transform: lowercase;
+font-size: 1.6rem;
+
+}
+
+.picture{
+width: 500px;    
+height: 1000px;
+border-radius: 20px;
+}
